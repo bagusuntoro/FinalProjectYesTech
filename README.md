@@ -4,14 +4,15 @@
 
 
 ### Frontend
-Vue JS
-Axios
-Bootstrap
+- Vue JS
+- Axios
+- Bootstrap
 
 ### Backend
-Laravel
-Mysql
-JWT
+- Laravel
+- Mysql
+- API
+- JWT
 
 
 ### Installation
