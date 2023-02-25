@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background: #EAEAEA;
+    padding: 0 10px;
+}
+
+.col-lg-13 .card-body .form-group{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 12px 0;
+}
+
+.form-group input[type="text"]{
+    font-size: 14px;
+}
